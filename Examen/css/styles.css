@@ -192,7 +192,7 @@ h1 {
 #home-info .info-img {
   float: center;
   width: 0%;
-  background: url('../imagenes/Dragon3.jpg') no-repeat  center cover;
+  background: url('/imagenes/Dragon3.jpg') no-repeat  center cover;
   min-height: 0%;
 }
 
